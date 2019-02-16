@@ -8,6 +8,8 @@
 | --------- |
 | [leral.net](data/leral.csv) |
 | [seneweb.com](data/seneweb.csv) |
+| [senego.com](data/senego.csv) |
+| [dakaractu.com](data/dakaractu.csv) |
 
 ### Arborescence
 
@@ -49,3 +51,6 @@ Ce projet est sous licence MIT - voir le fichier [LICENSE](LICENSE) pour plus de
 ## Source
 
 * [leral.net](leral.net)
+* [seneweb.com](seneweb.com)
+* [senego.com](senego.com)
+* [dakaractu.com](senego.com)
